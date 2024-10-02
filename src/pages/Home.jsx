@@ -17,7 +17,7 @@ function Home() {
           <img src="/img/logo.png" loading='lazy' className='' alt="" />
         </div>
 
-        <div className="fixed w-full bottom-0 md:bottom-[85%] right-5 flex justify-center items-end  md:h-auto md:justify-end p-3 z-50">
+        <div className="fixed w-full bottom-0 md:bottom-[85%] md:right-5 flex justify-center items-end md:h-auto md:justify-end p-3 z-50">
           <button href='#' className='bg-white border-[8px] border-[#292834] text-[#292834] py-3 px-7 text-3xl md:text-5xl font-londrina hover:scale-90 active:scale-90'>BUY NOW</button>
         </div>
 
