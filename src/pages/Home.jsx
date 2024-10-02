@@ -50,9 +50,9 @@ function Home() {
             <img src="/img/character.png" loading='lazy' alt="" />
           </div>
 
-          <div className="row-span-2 col-span-4 flex flex-col justify-center px-8 md:px-0 max-w-4xl">
+          <div className="row-span-2 col-span-4 flex flex-col justify-center px-6 max-w-4xl">
             <div className="space-y-6 text-white">
-              <h2 className='text-5xl md:text-9xl text-center'>Gorb Gorb Gorb!?</h2>
+              <h2 className='text-5xl md:text-8xl text-center'>Gorb Gorb Gorb!?</h2>
                 <p className='mx-auto text-md md:text-2xl leading-loose md:leading-loose text-[#DADADA] text-justify'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque posuere suscipit lectus, in efficitur leo tempus non. Integer ut sodales sapien. Fusce a consequat massa, ac finibus elit. Mauris erat ligula, pellentesque ut tellus nec, feugiat tempor risus. Ut pellentesque libero a vehicula consequat.</p>
               <div className="flex justify-center">
                 <Social size='small' />
