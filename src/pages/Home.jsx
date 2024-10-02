@@ -17,8 +17,8 @@ function Home() {
           <img src="/img/logo.png" loading='lazy' className='' alt="" />
         </div>
 
-        <div className="fixed  w-full flex justify-center items-end h-screen md:h-auto md:justify-end p-3">
-          <a href='#' className='bg-white border-[8px] border-[#292834] text-[#292834] py-3 px-7 text-3xl md:text-5xl font-londrina hover:scale-90 active:scale-90 z-50'>BUY NOW</a>
+        <div className="fixed w-full bottom-0 md:bottom-[85%] right-5 flex justify-center items-end  md:h-auto md:justify-end p-3 z-50">
+          <button href='#' className='bg-white border-[8px] border-[#292834] text-[#292834] py-3 px-7 text-3xl md:text-5xl font-londrina hover:scale-90 active:scale-90'>BUY NOW</button>
         </div>
 
         {/* Hero Content */}
@@ -76,7 +76,7 @@ function Home() {
             <p className="text-2xl">Taxes: 0/0</p>
           </div>
           
-          <div className="absolute top-[30%] left-[8%] w-[50%] h-[30%] flex flex-col lg:hidden items-center space-y-1 sm:space-y-2 justify-center text-center text-white p-4 font-semibold">
+          <div className="absolute top-[27%] md:top-[30%] left-[8%] w-[50%] h-[30%] flex flex-col lg:hidden items-center space-y-1 sm:space-y-2 justify-center text-center text-white p-4 font-semibold">
             <h2 className="text-2xl sm:text-5xl md:text-6xl font-bold">100B $GORB</h2>
             <p className="text-xs sm:text-lg md:text-xl">Mint & Freeze: Revoked</p>
             <p className="text-xs sm:text-lg md:text-xl">Liquidity: Burnt</p>
