@@ -69,15 +69,15 @@ function Home() {
           <img src='/img/tokenomic.png' loading='lazy' alt="Tokenomics" className="w-full h-auto" />
 
           {/* Text Overlay on the Monitor */}
-          <div className="hidden absolute top-[30%] left-[10%] w-[42%] h-[30%] lg:flex flex-col space-y-5 items-center justify-center text-center text-white p-4 font-bold">
+          <div className="hidden absolute top-[35%] left-[10%] w-[42%] h-[30%] lg:flex flex-col space-y-5 items-center justify-center text-center text-white p-4 font-bold">
             <h2 className="text-7xl font-bold mb-4">100B $GORB</h2>
             <p className="text-2xl">Mint & Freeze: Revoked</p>
             <p className="text-2xl">Liquidity: Burnt</p>
             <p className="text-2xl">Taxes: 0/0</p>
           </div>
           
-          <div className="absolute top-[27%] md:top-[30%] left-[8%] w-[50%] h-[30%] flex flex-col lg:hidden items-center space-y-1 sm:space-y-2 justify-center text-center text-white p-4 font-semibold">
-            <h2 className="text-2xl sm:text-5xl md:text-6xl font-bold">100B $GORB</h2>
+          <div className="absolute top-[32%] md:top-[30%] left-[8%] w-[50%] h-[30%] flex flex-col lg:hidden items-center sm:space-y-2 justify-center text-center text-white p-4 font-semibold">
+            <h2 className="text-xl sm:text-4xl md:text-5xl font-bold">100B $GORB</h2>
             <p className="text-xs sm:text-lg md:text-xl">Mint & Freeze: Revoked</p>
             <p className="text-xs sm:text-lg md:text-xl">Liquidity: Burnt</p>
             <p className="text-xs sm:text-lg md:text-xl">Taxes: 0/0</p>
