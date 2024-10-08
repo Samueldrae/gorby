@@ -24,9 +24,9 @@ const Social = ({size = 'medium'}) => {
   }
 
   return (
-    <ol className="grid grid-cols-3 gap-10 md:gap-16 justify-center">
+   <ol className="grid grid-cols-3 gap-10 md:gap-16 justify-center">
       <li>
-         <a href="" target="_blank">
+         <a href="https://x.com/GorbSol" target="_blank">
             <img
             className={`hover:scale-90 ${sizeClass}`}
             priority
@@ -36,7 +36,7 @@ const Social = ({size = 'medium'}) => {
          </a>
       </li>
       <li>
-         <a href="#" target="_blank">
+         <a href="https://t.me/GorbSol" target="_blank">
             <img
             className={`hover:scale-90 ${sizeClass}`}
             priority
@@ -55,7 +55,7 @@ const Social = ({size = 'medium'}) => {
             />
          </a>
       </li>
-  </ol>
+   </ol>
   )
 }
 
