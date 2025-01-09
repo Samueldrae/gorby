@@ -18,7 +18,7 @@ function Home() {
         </div>
 
         <div className="fixed w-full bottom-0 md:bottom-[85%] md:right-5 flex justify-center items-end md:h-auto md:justify-end p-3 z-50">
-          <button href='#' className='bg-white border-[8px] border-[#292834] text-[#292834] py-3 px-7 text-3xl md:text-5xl font-londrina hover:scale-90 active:scale-90'>BUY NOW</button>
+          <button href='https://pump.fun/coin/ETaaHTVrZHSxfQyP7ioDQntbm4CgF8N96UKundtGpump' className='bg-white border-[8px] border-[#292834] text-[#292834] py-3 px-7 text-3xl md:text-5xl font-londrina hover:scale-90 active:scale-90'>BUY NOW</button>
         </div>
 
         {/* Hero Content */}
@@ -37,7 +37,7 @@ function Home() {
           <div className="flex flex-col justify-center border border-blue-500">
             <div className="space-y-6 text-white">
               <h2 className='text-5xl md:text-6xl text-center'>Blob Blob Blob!?</h2>
-              <p className='lead leading-relaxed text-left'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque posuere suscipit lectus, in efficitur leo tempus non. Integer ut sodales sapien. Fusce a consequat massa, ac finibus elit. Mauris erat ligula, pellentesque ut tellus nec, feugiat tempor risus. Ut pellentesque libero a vehicula consequat.</p>
+              <p className='lead leading-relaxed text-left'>Get ready to witness the evolution of GORBY! This roadmap outlines our ambitious vision for growth and community building. While our goals are bold, we're committed to adapting and innovating along the way. The journey will be dynamic, and we'll keep you updated every step of the way. Let's embark on this exciting adventure together!</p>
               <div className="flex justify-center">
                 <Social />
               </div>
@@ -53,7 +53,7 @@ function Home() {
           <div className="row-span-2 col-span-4 flex flex-col justify-center px-6 max-w-4xl">
             <div className="space-y-6 text-white">
               <h2 className='text-5xl md:text-8xl text-center'>Gorby Gorby Gorby!?</h2>
-                <p className='mx-auto text-md md:text-2xl leading-loose md:leading-loose text-[#DADADA] text-justify'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque posuere suscipit lectus, in efficitur leo tempus non. Integer ut sodales sapien. Fusce a consequat massa, ac finibus elit. Mauris erat ligula, pellentesque ut tellus nec, feugiat tempor risus. Ut pellentesque libero a vehicula consequat.</p>
+                <p className='mx-auto text-md md:text-2xl leading-loose md:leading-loose text-[#DADADA] text-justify'>Get ready to witness the evolution of GORBY! This roadmap outlines our ambitious vision for growth and community building. While our goals are bold, we're committed to adapting and innovating along the way. The journey will be dynamic, and we'll keep you updated every step of the way. Let's embark on this exciting adventure together!.</p>
               <div className="flex justify-center">
                 <Social size='small' />
               </div>
