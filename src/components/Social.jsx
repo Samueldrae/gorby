@@ -46,7 +46,7 @@ const Social = ({size = 'medium'}) => {
          </a>
       </li>
       <li>
-         <a href="#" target="_blank">
+         <a href="https://pump.fun/coin/ETaaHTVrZHSxfQyP7ioDQntbm4CgF8N96UKundtGpump" target="_blank">
             <img
             className={`hover:scale-90 ${sizeClass}`}
             priority
