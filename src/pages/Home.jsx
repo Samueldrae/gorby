@@ -77,7 +77,7 @@ function Home() {
           </div>
           
           <div className="absolute top-[32%] md:top-[30%] left-[8%] w-[50%] h-[30%] flex flex-col lg:hidden items-center sm:space-y-2 justify-center text-center text-white p-4 font-semibold">
-            <h2 className="text-xl sm:text-4xl md:text-5xl font-bold">100B $GORB</h2>
+            <h2 className="text-xl sm:text-4xl md:text-5xl font-bold">1B $GORB</h2>
             <p className="text-xs sm:text-lg md:text-xl">Mint & Freeze: Revoked</p>
             <p className="text-xs sm:text-lg md:text-xl">Liquidity: Burnt</p>
             <p className="text-xs sm:text-lg md:text-xl">Taxes: 0/0</p>
