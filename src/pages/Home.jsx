@@ -14,7 +14,7 @@ function Home() {
 
         <div className="w-[50%] md:w-2/3 md:h-[50%] h-[65%] mt-10 absolute grid place-items-center  left-12 -top-5 md:left-16  px-6">
           {/* <Logo/> */}
-          <img src="https://i.ibb.co/dtyy33y/Y.png" loading='lazy' className='' alt="" />
+          <img src="https://i.ibb.co/FnDzpV7/Y.png" loading='lazy' className='' alt="" />
         </div>
 
         <div className="fixed w-full bottom-0 md:bottom-[85%] md:right-5 flex justify-center items-end md:h-auto md:justify-end p-3 z-50">
