@@ -83,7 +83,7 @@ function Home() {
             <p className="text-xs sm:text-lg md:text-xl">Taxes: 0/0</p>
           </div>
           {/* <div className="text-center">
-            <h2 className='text-lg lg:text-5xl'>CA: 0x87799B413bAb5432AbCF2e1fB1Cdec28E397f77F</h2>
+            <h2 className='text-lg lg:text-5xl'>CA: ETaaHTVrZHSxfQyP7ioDQntbm4CgF8N96UKundtGpump</h2>
           </div> */}
         </div>
       </section>
