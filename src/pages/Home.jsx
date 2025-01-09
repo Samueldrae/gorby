@@ -52,7 +52,7 @@ function Home() {
 
           <div className="row-span-2 col-span-4 flex flex-col justify-center px-6 max-w-4xl">
             <div className="space-y-6 text-white">
-              <h2 className='text-5xl md:text-8xl text-center'>Gorb Gorb Gorb!?</h2>
+              <h2 className='text-5xl md:text-8xl text-center'>Gorby Gorby Gorby!?</h2>
                 <p className='mx-auto text-md md:text-2xl leading-loose md:leading-loose text-[#DADADA] text-justify'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque posuere suscipit lectus, in efficitur leo tempus non. Integer ut sodales sapien. Fusce a consequat massa, ac finibus elit. Mauris erat ligula, pellentesque ut tellus nec, feugiat tempor risus. Ut pellentesque libero a vehicula consequat.</p>
               <div className="flex justify-center">
                 <Social size='small' />
@@ -70,7 +70,7 @@ function Home() {
 
           {/* Text Overlay on the Monitor */}
           <div className="hidden absolute top-[35%] left-[10%] w-[42%] h-[30%] lg:flex flex-col space-y-5 items-center justify-center text-center text-white p-4 font-bold">
-            <h2 className="text-7xl font-bold mb-4">100B $GORB</h2>
+            <h2 className="text-7xl font-bold mb-4">1B $GORBY</h2>
             <p className="text-2xl">Mint & Freeze: Revoked</p>
             <p className="text-2xl">Liquidity: Burnt</p>
             <p className="text-2xl">Taxes: 0/0</p>
@@ -104,7 +104,7 @@ function Home() {
             </div>
             <div class="col-start-1 row-start-3">
               <img src="/img/swap-gorb.png" className='' alt="" />
-              <h3 className='text-lg md:text-4xl'>Swap $SOL to $GORB</h3>
+              <h3 className='text-lg md:text-4xl'>Swap $SOL to $GORBY</h3>
             </div>
             <div class="col-start-3 row-start-4 col-end-3 ">
               <img src="/img/solana.png" className='' alt="" />
@@ -134,7 +134,7 @@ function Home() {
               <div className="w-[70%]">
                 <img src="/img/swap-gorb.gif" className='' alt="" />
               </div>
-              <h3 className='text-lg sm:text-2xl md:text-5xl'>Swap $SOL to $GORB</h3>
+              <h3 className='text-lg sm:text-2xl md:text-5xl'>Swap $SOL to $GORBY</h3>
             </div>
             <div class="row-start-2 row-span-2 flex flex-col items-center">
               <div className="w-[80%]">
@@ -161,7 +161,7 @@ function Home() {
               <div className="w-[50%]">
                 <img src="/img/swap-gorb.gif" className='' alt="" />
               </div>
-              <h3 className='text-3xl'>Swap $SOL to $GORB</h3>
+              <h3 className='text-3xl'>Swap $SOL to $GORBY</h3>
             </div>
             <div class="flex flex-col items-center  mt-4">
               <div className="w-[50%]">
