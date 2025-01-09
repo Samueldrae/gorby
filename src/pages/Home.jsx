@@ -23,7 +23,7 @@ function Home() {
 
         {/* Hero Content */}
         {/* <div className="relative z-10 flex flex-col justify-center items-center text-center h-full px-4 md:px-8">
-          <a href="#services" className=" text-white text-xl md:text-3xl font-bold text-stroke-1 py-3 px-6">
+          <a href="https://pump.fun/coin/ETaaHTVrZHSxfQyP7ioDQntbm4CgF8N96UKundtGpump" className=" text-white text-xl md:text-3xl font-bold text-stroke-1 py-3 px-6">
             BUY NOW
           </a>
         </div> */}
